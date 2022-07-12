@@ -12,8 +12,9 @@ disc.SLDPRT is the mounting base part file for the drone camera;
 
 gear.SLDPRT is the UAV fan blade gear parts file;
 
-gearing.SLDPRT is the UAV bearing parts file; 
-drone.7z is the compressed file of the simulating video of the drone model's flight;
+gearing.SLDPRT is the UAV bearing parts file;
+
+drone.7z is the compressed file of the simulating video of the drone model's flight; 
 Drone_simulation.avi is the simulation video file of the pressure distribution around the drone during flight.
 
 drone-SolidWorks
