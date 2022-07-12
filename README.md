@@ -1,5 +1,7 @@
 # drone-SolidWorks
+
 drone.SLDASM is the overall model file of the drone based on SolidWorks software;
+
 main.SLDPRT is the main part file of the drone body;
 blade.SLDPRT is the UAV fan blade parts file;
 leg.SLDPRT is the UAV foldable limb parts file;
